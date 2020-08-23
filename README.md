@@ -42,3 +42,4 @@ https://www.sans.org/course/network-penetration-testing-ethical-hacking
 
 https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/
                
+t.me/unique_security 
