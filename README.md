@@ -19,8 +19,11 @@ https://certification.comptia.org/certifications/network
 
 https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 
-7. lpic1,2,3
+7. lpic1,2
 
+https://t.me/library_sec/11
+
+https://t.me/library_sec/45
 
 8. PYTHON
 
@@ -42,4 +45,4 @@ https://www.sans.org/course/network-penetration-testing-ethical-hacking
 
 https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/
                
-t.me/unique_security 
+t.me/UniqueExploit 
